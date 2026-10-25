@@ -1,0 +1,12 @@
+{
+  "entry": "https://raw.githubusercontent.com/nellie01/roche-xiaohongshu-plugin/main/roche-xiaohongshu.js",
+  "name": "小红书",
+  "description": "与角色一起浏览真实小红书，需要配套连接服务。",
+  "hash": "",
+  "permissions": [
+    "ui"
+  ],
+  "author": "nellie01",
+  "version": "0.1.1",
+  "id": "roche-xiaohongshu"
+}
